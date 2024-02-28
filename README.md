@@ -9,15 +9,8 @@
 - I am 20 years old
 
 - I'm majoring in Computer Science
-  
-- I’m currently learning **Data Science**
 
 - How to reach me **juliakavamoto@gmail.com**
-
-**Interests:**
-- Exploring new coding challenges and algorithms
-- Contributing to open-source projects
-- Attending tech meetups and workshops
 
 
 <div align="center">  
