@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%09%23ef4f91&width=435&lines=Hello!+My+name+is+Júlia+Kavamoto" alt="Typing SVG" /></a>
 
-<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/jzZkdfuKcMAAAAAC/cat-kiss.gif">
 
 - I am from Brazil
 
